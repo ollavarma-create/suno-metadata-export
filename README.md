@@ -6,10 +6,9 @@ Lyrics and song structures are my own work; instrumentation and production by Su
 ## About This Repository
 
 This repository contains metadata and lyrics for 539 publicly released tracks I created
-between December 2024 and December 2025 using [Suno.com](https://suno.com/@fugoogle).
-The `song-meta/` directory contains a browsable
-[catalog](song-meta/catalog.md) with links to each track, and a
-[JSON file](song-meta/catalog.json) with full metadata and lyrics for all tracks.
+between December 2024 and December 2025 using [Suno.com]. The `song-meta/` directory contains a browsable
+[catalog](song-meta/catalog.md) and a [JSON file](song-meta/catalog.json) with full metadata and lyrics for all tracks.
+(Note: original songs are removed from Suno.com)
 
 The `articles/` directory contains three articles I originally published on LinkedIn,
 covering the creative process, therapeutic potential of AI music, and lessons learned
@@ -32,9 +31,6 @@ A typical workflow looks like this:
    and narrative coherence.
 4. **Music generation** — I test several instrumentals on Suno to find the best
    emotional match for the lyrics.
-5. **Post-processing** — Vocal quality improvements in Audacity, and embedding a
-   steganographic signature using my custom tool
-   [Cryptoleaf](https://codeberg.org/hiltsu/cryptoleaf).
 
 All processing runs locally for privacy — I can safely incorporate personal experiences
 and sensitive themes without sharing them with cloud services.
