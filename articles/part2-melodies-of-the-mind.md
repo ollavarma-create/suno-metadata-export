@@ -5,7 +5,7 @@
 
 ### Introduction
 
-This article is continuation from [AI Music Creation – Part 1: Tools, Techniques & Ownership](https://www.linkedin.com/pulse/ai-music-creation-part-1-tools-techniques-ownership-jari-hiltunen-lobpf). Music has long been recognized as a powerful therapeutic tool, capable of soothing anxiety, lifting moods, and evoking memories. Today, artificial intelligence is amplifying these effects by creating personalized musical experiences tailored to individual emotional needs. Researchers and clinicians are increasingly exploring AI-generated music and lyrics as interventions for mental well-being across diverse settings – from everyday stress relief to formal therapy sessions. This reflective overview examines how AI-assisted music is being used to support mental health and social connectedness among different age groups, and considers the emerging idea of weaving personal life narratives into AI-composed songs for emotional healing.
+Music has long been recognized as a powerful therapeutic tool, capable of soothing anxiety, lifting moods, and evoking memories. Today, artificial intelligence is amplifying these effects by creating personalized musical experiences tailored to individual emotional needs. Researchers and clinicians are increasingly exploring AI-generated music and lyrics as interventions for mental well-being across diverse settings – from everyday stress relief to formal therapy sessions. This reflective overview examines how AI-assisted music is being used to support mental health and social connectedness among different age groups, and considers the emerging idea of weaving personal life narratives into AI-composed songs for emotional healing.
 
 ### The Therapeutic Power of Music and AI
 
@@ -37,7 +37,7 @@ One particularly exciting (and speculative) frontier is the idea of using a pers
 
 Early steps toward this vision are visible in case studies and prototypes. Therapists have started to use **personalized songwriting** as a therapeutic exercise — for example, helping hospice patients write songs about their lives to find peace and meaning in their stories. With AI, this process could be scaled and adapted to individuals who are not musicians. A large language model (LLM) could be fed key memories or a timeline of someone’s life (with their consent), and then generate lyrics in the first person, telling the story of their triumphs and struggles in poetic form. Similarly, AI music models could compose melodies that match the emotional arc — perhaps a gentle, nostalgic tune for childhood recollections, swelling to a triumphant chorus for overcoming life’s challenges.
 
-As a personal example of this emerging practice, I recently composed a song based on a poem found in my late grandmother’s estate, transforming her words into music through AI tools. The result is available in three languages — Finnish ([*Karjalan huokaus*](https://suno.com/song/8323feff-9e4a-42de-9aa6-9086af868652)), English ([*Whispers of Karelia*](https://suno.com/song/5d3fcc94-4ae3-4a58-b1f5-fc53cf3a6a42)), and Swedish ([*Kareliens viskningar*](https://suno.com/song/08549f88-f40c-4c2d-a098-4d7bb699e804)) — demonstrating how AI can help preserve personal histories and create emotionally resonant works even for those without formal musical training.
+As a personal example of this emerging practice, I recently composed a song based on a poem found in my late grandmother’s estate, transforming her words into music through AI tools. 
 
 While this remains largely experimental, it is grounded in the understanding that **personalized artistic expression can be deeply therapeutic**. One could foresee an elderly care facility, for instance, where each resident has an AI-curated “life album” — a set of songs that recount their own life chapters — which they can listen to and share with family. Hearing one’s life story sung back to them might reinforce a sense of legacy and reduce feelings of invisibility or isolation.
 
@@ -49,31 +49,6 @@ The convergence of AI and music therapy is painting a hopeful picture of the fut
 
 As we move forward, collaboration between technologists, psychologists, music therapists, and caregivers will be crucial to ensure these innovations are effective and used ethically. The goal is not to replace human therapists or the authenticity of human-composed music, but to enhance and extend the reach of music as a healing modality. An AI might analyze data and generate notes, but it is human empathy and insight that will guide which melodies truly matter to someone. For professionals in social work, psychology, and computer science alike, AI-assisted music opens up interdisciplinary opportunities to address loneliness, stress, and mental illness in creative ways. By keeping the human listener’s needs and story at the center, we can ensure this technological symphony strikes the right chord – delivering comfort, connection, and hope through the universal language of music.
 
----
-
-### References
-
-Aalbers, S., Fusar-Poli, L., Freeman, R. E., Spreen, M., Ket, J. C. F., Vink, A. C., ... & Gold, C. (2017). Music therapy for depression. *Cochrane Database of Systematic Reviews*, 11, CD004517. [https://doi.org/10.1002/14651858.CD004517.pub3](https://doi.org/10.1002/14651858.CD004517.pub3) (related to Qian, F., Sun, X., Zhang, T., & Luo, J. (2023). *Intelligent music therapy: A new horizon for mental health interventions*. *Frontiers in Psychology*, 14, 3863–3872)
-
-Jin, Y., Cai, W., Chen, L., Zhang, Y., Doherty, G., & Jiang, T. (2024). Exploring the design of generative AI in supporting music-based reminiscence for older adults. *arXiv preprint arXiv:2403.01413*. [https://arxiv.org/abs/2403.01413](https://arxiv.org/abs/2403.01413)
-
-Smith, R., & Dingle, G. (2019). The effects of music therapy on anxiety and depression: A meta-analysis. *Journal of Affective Disorders*, 243, 52–56. [https://doi.org/10.1016/j.jad.2018.09.016](https://doi.org/10.1016/j.jad.2018.09.016)
-
-[Suno.com](http://Suno.com). Suno is building a future where anyone can make great music. Whether you're a shower singer or a charting artist, we break barriers between you and the song you dream of making. No instrument needed, just imagination. From your mind to music. Songs referenced from article writer's library: Finnish (*Karjalan huokaus*: [https://suno.com/song/8323feff-9e4a-42de-9aa6-9086af868652](https://suno.com/song/8323feff-9e4a-42de-9aa6-9086af868652)), English (*Whispers of Karelia*: [https://suno.com/song/5d3fcc94-4ae3-4a58-b1f5-fc53cf3a6a42](https://suno.com/song/5d3fcc94-4ae3-4a58-b1f5-fc53cf3a6a42)), and Swedish (*Kareliens viskningar*: [https://suno.com/song/08549f88-f40c-4c2d-a098-4d7bb699e804](https://suno.com/song/08549f88-f40c-4c2d-a098-4d7bb699e804))
-
-Thompson, W. F., & Quinto, L. (2011). *Music and emotion: Psychological considerations*. In E. Schellekens & P. Goldie (Eds.), *The Aesthetic Mind: Philosophy and Psychology* (pp. 357–375). Oxford University Press. [https://doi.org/10.1093/acprof:oso/9780199691517.003.0022](https://doi.org/10.1093/acprof:oso/9780199691517.003.0022)
-
-van der Steen, J. T., Smaling, H. J., van der Wouden, J. C., Bruinsma, M. S., Scholten, R. J., & Vink, A. C. (2018). Music-based therapeutic interventions for people with dementia. *Cochrane Database of Systematic Reviews*, 7, CD003477. [https://doi.org/10.1002/14651858.CD003477.pub3](https://doi.org/10.1002/14651858.CD003477.pub3)
-
-Vink, A., Bruinsma, M., & Scholten, R. (2011). Music therapy for people with dementia. *Cochrane Database of Systematic Reviews*, 2011(3), CD003477. [https://doi.org/10.1002/14651858.CD003477.pub2](https://doi.org/10.1002/14651858.CD003477.pub2)
-
-**Ward, M. C., Milligan, C., Rose, E., Elliott, M., & Wainwright, B. R. (2020).** The benefits of community-based participatory arts activities for people living with dementia: A thematic scoping review. *Arts & Health, 13*(4), 1–27. [https://doi.org/10.1080/17533015.2020.1781217Wiley](https://doi.org/10.1080/17533015.2020.1781217Wiley)
-
-**Wei, X., Zhang, Z., Yue, Z., & Chen, H.-T. (2025).** Context-AI Tunes: Context-Aware AI-Generated Music for Stress Reduction. *arXiv preprint arXiv:2505.09872*. [https://doi.org/10.48550/arXiv.2505.09872](https://doi.org/10.48550/arXiv.2505.09872)
-
----
-
-More insights and deeper explorations — including monetization challenges — will follow in the next parts of this series.
 
 ---
 

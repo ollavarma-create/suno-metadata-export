@@ -1,14 +1,5 @@
 # AI Music Creation – Part 3: The AI Content Tsunami & Youtube
 
-
-
-
-Previous articles:
-
-- [AI Music Creation – Part 1: Tools, Techniques & Ownership](https://www.linkedin.com/pulse/ai-music-creation-part-1-tools-techniques-ownership-jari-hiltunen-lobpf)
-- [AI Music Creation – Part 2: Melodies of the Mind: AI-Assisted Music in Therapy and Emotional Well-Being](https://www.linkedin.com/pulse/ai-music-creation-part-2-melodies-mind-ai-assisted-therapy-hiltunen-v4r8f)
----
-
 It’s undeniable: the web is drowning in AI-generated content. As creators, we’re forced to ask: **How do you reach real humans when algorithms favor infinite, synthetic noise?**
 
 My own YouTube experiment — music made with Suno, visuals via Sora/Kling — ***became a crash course in this harsh reality***. Here’s what the data taught me, and how *you* can adapt.
@@ -50,6 +41,7 @@ AI flooded my niche with identical content. My videos were:
 - **Generic** (no human edge, except in lyrics)
 - **Forgettable** (no storytelling even my song lyrics are telling stories)
 - **Algorithmically redundant**
+- 
 ## How to Thrive: 3 Lessons From My Failure
 
 1. **Authenticity > Volume**
@@ -64,10 +56,9 @@ AI flooded my niche with identical content. My videos were:
 - **Action: Nurture 1:1 connections** (reply to EVERY comment).
 3. **Monetization Demands Strategy**
 
-- YouTube’s Partner Program requires 1,000 subs **AND** 4,000 watch hours *OR* 10M Shorts views.
+- YouTube’s Partner Program requires 1,000 subs **AND** 4,000 watch hours *OR* 10M Shorts views.- 
 - *My path there? Zero without total reinvention.*
 - **Action: Build OFF-platform funnels** (email, Patreon, merch).
-For comparison, check my first month stats from [this video](https://youtu.be/N0dnBO8_B2Q).
 
 ### Will AI-Generated Content Have a Future?
 
@@ -91,12 +82,6 @@ AI didn’t kill my channel — **mediocrity did**. The golden age of "make cont
 - **Niche authority**
 - **Relentless value**
 ***...will always cut through the noise. ***
-
----
-
-[Link to last song at Youtube. Summarises content of this article. Enjoy!](https://youtube.com/shorts/BGgRuzg86mQ)
-
-#ContentCreation #AIContent #YouTubeStrategy #DigitalMarketing #CreatorEconomy #ArtificialIntelligence #ContentMarketing
 
 ---
 

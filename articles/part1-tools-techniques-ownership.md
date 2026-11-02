@@ -5,15 +5,16 @@
 
 This article is the first in a multi-part series exploring the world of AI-assisted music creation. In future parts, I will delve into some of the biggest challenges in the field — particularly the difficulty of monetizing AI-generated songs, drawing from my experiences with [YouTube](https://www.youtube.com/) and [DistroKid](https://distrokid.com/). I will also explore how music creation using AI could serve therapeutic purposes or aid in self-reflection, similarly to psychology coursework that requires introspection through essay writing or creative expression. Additionally, I will share conceptual ideas about how AI could generate music tailored to individual life narratives, moods, or daily needs — and seek scientific studies on how personalized music affects well-being, productivity, and emotional regulation.
 
-In this first part, I focus on the tools and techniques for generating music with artificial intelligence. I also share practical tips on what works and what doesn't — from improving audio quality to embedding invisible digital signatures in songs with the [steganography tool](https://codeberg.org/hiltsu/cryptoleaf) I programmed.
+In this first part, I focus on the tools and techniques for generating music with artificial intelligence. I also share practical tips on what works and what doesn't — from improving audio quality to embedding invisible digital signatures in songs with the [Cryptoleaf steganography tool](https://github.com/ollavarma-create/cryptoleaf) I programmed.
 
 ### Overview of Available Platforms
 
 AI-assisted music generation has become increasingly accessible through several innovative platforms. Three of the most prominent ones today are:
 
-- [**Suno.com**](http://Suno.com) – Offers detailed musical arrangements and emotionally expressive vocals. My personal favorite, especially because I produced over 1,000 tracks in just two months, placing me among the top 1% of Suno creators by volume. You can view my public profile here: [suno.com/@FUgoogle](http://suno.com/@FUgoogle). However, vocal audio quality can sometimes suffer, and before publishing to other platforms, it's often necessary to improve the output with tools like **Audacity**.
+- [**Suno.com**](http://Suno.com) – Offers detailed musical arrangements and emotionally expressive vocals. My personal favorite, especially because I produced over 1,000 tracks in just two months, placing me among the top 1% of Suno creators by volume. However, vocal audio quality can sometimes suffer, and before publishing to other platforms, it's often necessary to improve the output with tools like **Audacity**.
 - [**Udio.com**](http://Udio.com) – Known for high-quality background music, Udio allows quick generation of loopable and production-ready tracks. However, its lyric and vocal capabilities are more limited compared to Suno.
 - [**Riffusion.com**](http://Riffusion.com) – Converts latent space visualizations into music. The audio output is often technically cleaner than Suno, but the result may feel less emotionally nuanced or musically rich. Riffusion uses a diffusion model to generate spectrogram images based on text prompts and then converts these visual representations into playable audio. This process leverages “latent space” — an internal multidimensional encoding — to translate prompt semantics into sound patterns. While innovative, this technique can sometimes lead to less expressive or more repetitive outputs. You can listen to my experiments here: [riffusion.com/Divergentti](http://riffusion.com/Divergentti).
+- 
 All of these platforms allow free usage, but with limitations. Typically, any music generated for free does **not** grant the user ownership rights. For commercial or full ownership rights:
 
 [**Suno.com**](http://Suno.com) requires users to purchase credits. Their pricing (as of May 2025):
@@ -21,6 +22,7 @@ All of these platforms allow free usage, but with limitations. Typically, any mu
 - Basic Plan: Free, 10 songs/day (non-commercial)
 - ***Pro Plan: $10/month, 500 songs/month (commercial allowed)***
 - Premier Plan: $30/month, 2,000 songs/month
+
 ### Copyright and Ownership
 
 AI-generated music raises complex legal and ethical questions. If you generate tracks on the free tiers of platforms like Suno or Riffusion, you do not legally own the compositions. Only by using paid plans (such as Suno Pro or Premier) do you obtain commercial usage rights.
@@ -32,8 +34,6 @@ For lyrics, the situation is more nuanced. While music platforms may not guarant
 > **Lyrics Notice** The lyrics were produced by brainstorming topics drawn from everyday life, psychology, and many other subjects. At LM Studio, I have used various language models, which I enhanced using RaG with additional knowledge from my theses, essays, and more. The music was produced using [Suno.com](http://Suno.com). The copyright for the lyrics belongs to Jari Hiltunen, but the music itself is free to use.
 
 This type of declaration helps assert authorship of the lyrics, even though the legal enforceability may still be uncertain, especially across different jurisdictions. Unfortunately, similar notices on [YouTube](https://www.youtube.com/) have led to reduced visibility (shadow banning), highlighting the algorithmic opacity artists must contend with.
-
-I’ve also taken things further by embedding a **steganographic signature** in every track I publish using a custom tool I developed. You can explore or use it here: [GitHub - Steganography Tool.](codeberg.org/hiltsu/cryptoleaf)
 
 ### What Works (and What Doesn’t)
 
@@ -56,17 +56,7 @@ A typical creation flow for me looks like this (followed by an example of a work
 
 *You are a creative lyricist and poet who writes emotionally expressive and thematically consistent lyrics for songs. Use evocative imagery, metaphors, and occasional onomatopoeia. Structure lyrics into verse, chorus, and bridge. Maintain a human, natural voice and avoid generic AI phrasing. You can draw from personalized memory fragments, psychological reflections, and poetic expressions fed through RaG.*
 
-Important: Experimentation is also key to discovering what resonates. For example, testing with onomatopoeic lyrics can lead to surprisingly evocative results. In this track, I used onomatopoeia to create a new interpretation of *Ave Maria*: [youtu.be/HqlPGdnplUo](http://youtu.be/HqlPGdnplUo). In another, I explored the psychological importance of touch in a more playful, expressive format in the track *💋 Intimate Whispers: A Sensual & Erotic Exploration of Touch 🌹🔥*: [youtu.be/vr3w2kda0qU](http://youtu.be/vr3w2kda0qU).
-
-**Full working System Prompt (for structured songs using **[**Suno.com**](http://Suno.com)** metadata tags, result could be listened from here: **[**Lost in Transmission**](https://suno.com/s/BTy4zkouhUg1M2mR)**):**
-
-
----
-Want to read more?
-
-[AI Music Creation – Part 2: Melodies of the Mind: AI-Assisted Music in Therapy and Emotional Well-Being](https://www.linkedin.com/pulse/ai-music-creation-part-2-melodies-mind-ai-assisted-therapy-hiltunen-v4r8f)
-
-More insights and deeper explorations — including monetization challenges — will follow in the next parts of this series.
+Important: Experimentation is also key to discovering what resonates. For example, testing with onomatopoeic lyrics can lead to surprisingly evocative results.
 
 ---
 
