@@ -1,6 +1,24 @@
 # Song Catalog
 
-539 publicly released tracks, sorted by creation date.
+539 publicly released tracks, sorted by creation date. 
+
+**Note! Links to suno.com does not work since 08-2026!! (due to security reasons)**
+
+My e-mail to the support (this is ok now):
+
+I am writing to follow up on my Right to Erasure request under GDPR Article 17, submitted on July 2, 2026, for my account (handle: fugoogle). I have not yet received written confirmation that my data has been permanently deleted.
+
+Furthermore, I have received automated notifications from "Have I Been Pwned" confirming that my personal data was included in the recently disclosed Suno data breach (originally occurring in November 2025, disclosed publicly around July 20, 2026).
+
+Notably, I received breach notifications for both my Gmail address (used for Google Sign-In) and my Outlook address. I never used the Outlook address for login; it was only used to contact your support team regarding my erasure request and to forward receipts. The fact that this address is linked to my profile or support tickets in your breached database highlights an excessive retention of my personal data.
+
+I have not received any direct, individual notification from Suno regarding this incident. Under GDPR Article 34, you are obligated to communicate a personal data breach to the data subject without undue delay when it is likely to result in a high risk to their rights and freedoms.
+Given this serious situation, I urgently demand:
+
+- Immediate written confirmation that all my personal data (including both email addresses, phone number, and all support ticket metadata linked to my account) has been permanently and irreversibly erased from your systems.
+- A formal explanation as to why I was not directly notified of this data breach by Suno, as required by GDPR Article 34.  
+    
+--------  
 
 Full metadata and lyrics are available in [`catalog.json`](catalog.json).
 
